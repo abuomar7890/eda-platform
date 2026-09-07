@@ -32,7 +32,7 @@ MarkupSafe==3.0.3
 mdurl==0.1.2
 multidict==6.7.1
 narwhals==2.25.0
-numpy==2.5.3
+numpy==1.26.4
 openpyxl==3.1.2
 packaging==23.2
 pandas==2.1.4
@@ -55,7 +55,7 @@ referencing==0.37.0
 requests==2.34.2
 rich==13.9.4
 rpds-py==2026.6.3
-scipy==1.18.1
+scipy==1.13.1
 six==1.17.0
 smmap==5.0.3
 storage3==2.31.0
